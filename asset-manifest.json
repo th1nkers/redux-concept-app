@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thinkers121.github.io/redux-concept-app/static/css/main.073c9b0a.css",
+    "main.js": "/thinkers121.github.io/redux-concept-app/static/js/main.0ab6b8d5.js",
+    "index.html": "/thinkers121.github.io/redux-concept-app/index.html",
+    "main.073c9b0a.css.map": "/thinkers121.github.io/redux-concept-app/static/css/main.073c9b0a.css.map",
+    "main.0ab6b8d5.js.map": "/thinkers121.github.io/redux-concept-app/static/js/main.0ab6b8d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0ab6b8d5.js"
+  ]
+}
